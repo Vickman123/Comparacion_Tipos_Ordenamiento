@@ -1,2 +1,2 @@
-# Comparacion_Tipos_Ordenamiento
-Se compara el tiempo de ordenación de una cantidad a través de los métodos de ordenamiento como InsertionSort, Selection Sort, Bubble Sort y Merge Sort
+#Sorting_Methods_Comparison 
+The sorting time of a quantity is compared through sorting methods such as InsertionSort, Selection Sort, Bubble Sort, and Merge Sort  
