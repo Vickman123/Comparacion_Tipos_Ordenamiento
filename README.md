@@ -1,2 +1,3 @@
-#Sorting_Methods_Comparison 
-The sorting time of a quantity is compared through sorting methods such as InsertionSort, Selection Sort, Bubble Sort, and Merge Sort  
+#Comparison Methods Sorting 
+
+This program compares the sort time of a series of items by insert sort, selection sort, bubble sort, and merge sort. At the end it shows us the time it took to do it in milliseconds
