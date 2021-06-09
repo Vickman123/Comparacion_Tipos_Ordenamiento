@@ -1,4 +1,4 @@
-#Comparacion_Metodos_Ordenamiento
+    Comparacion_Metodos_Ordenamiento
 
 Este programa compara el tiempo de clasificación de una serie de elementos por clasificación por inserción, clasificación por selección, clasificación por burbujas y clasificación por combinación. Al final nos muestra el tiempo que tardó en hacerlo en milisegundos 
 
