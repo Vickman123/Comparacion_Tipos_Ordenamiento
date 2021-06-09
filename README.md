@@ -1,6 +1,6 @@
-#Comparison Methods Sorting 
+#Comparacion_Metodos_Ordenamiento
 
-This program compares the sort time of a series of items by insert sort, selection sort, bubble sort, and merge sort. At the end it shows us the time it took to do it in milliseconds
+Este programa compara el tiempo de clasificación de una serie de elementos por clasificación por inserción, clasificación por selección, clasificación por burbujas y clasificación por combinación. Al final nos muestra el tiempo que tardó en hacerlo en milisegundos 
 
 
 ![ordenamiento](https://user-images.githubusercontent.com/68364639/121411063-da1adb00-c928-11eb-93e4-7753d24ee30f.png)
