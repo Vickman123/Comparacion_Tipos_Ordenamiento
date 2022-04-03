@@ -1,10 +1,11 @@
 # Comparacion_Metodos_Ordenamiento
 
 Este programa compara el tiempo de clasificación de una serie de elementos por clasificación como:
--inserción
--selección
--burbujas
--combinación. 
+- inserción
+- selección
+- burbujas
+- combinación. 
+
 Al final nos muestra el tiempo que tardó en hacerlo en milisegundos 
 
 
